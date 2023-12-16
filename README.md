@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SamSoita
 - 👀 I’m interested in Software development on Cloud
-- 🌱 I’m currently learning HTML & Microsoft Azure Development
-- 💞️ I’m looking to collaborate on developing Functions, APIs on severless computing & Kubernettes
+- 🌱 I’m currently learning HTML5, CSS & JavaScript
 - 📫 Reach me at sam.soita@gmail.com
 
 <!---
